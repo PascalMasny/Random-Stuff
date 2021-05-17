@@ -9,7 +9,7 @@
 
 #Start
 echo "Wurfparabelrechner in Bash"
-echo "by Pascal Masny"
+echo "by Pascal"
 echo "----"
 
 #Inputs
