@@ -1,0 +1,42 @@
+//Bash Notizen
+
+Endung: .sh
+//Dateiname
+
+
+Anfang eines Scripts: #/bin/bash
+//bestimmt den auführungsort des Scripts
+
+
+Berechigungen geben: chmod 
+//bestimt berchtigungen für das Script
+//excecute: +x
+//read: +r
+//write +w
+//alles: +rwx
+//alle rechte für alles user: chmod 777
+
+
+Script ausführen: ./script.sh
+//fürt script aus, nur mit execute berectigung
+
+
+Echo: echo"Hello World" 
+//zeigt den Text an
+
+Variablen:
+
+Text Variablen: hey="Hello World"
+//bsp: echo" $hey"
+
+Comand Variable: day=$(date)
+// bsp : echo "$day"
+
+Zahlen Variablen: a=4
+//bsp echo "$a"
+
+
+Input:
+
+Text input: read name
+//bsp echo"Hello, $name"
