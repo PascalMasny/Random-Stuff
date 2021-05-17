@@ -1,0 +1,26 @@
+https://dev.to/kalium/brainf-ck-in-5-minutes-bim
+
+
+“>” moves the datapointer to the right.
+“<” moves the datapointer to the left.
+“+” increases the selected datapointer by one.
+“-” decreases the selected datapointer by one.
+“.” outputs the number in the selected datapointer as an ASCII character.
+“,” reads one character from input and writes it to the datapointer.
+“[” if the current datapointer is at 0, then skip to the next “]”.
+“]” if the current datapointer is not at 0, then go back to the last “[”.
+
+
+Text in ASCII:
+H = 72,
+e = 101,
+l = 108,
+l = 108,
+o = 111,
+space = 32,
+w = 119,
+o = 111,
+r = 114,
+l = 108,
+d = 100,
+! = 33.
