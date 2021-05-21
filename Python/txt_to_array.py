@@ -3,7 +3,7 @@ import numpy as np
   
 # skipping first row
 # converting file data to string
-data = np.loadtxt("data.txt", skiprows=1, dtype='str')
+data = np.loadtxt("data.txt", skiprows=0, dtype='str')
 
 n = 0
 
