@@ -37,4 +37,4 @@
 | %$ | Used to denote warps. You can put multiple letters next to eachother to denote multiple warps. You can only use a warp twice in the code |
 
 ## Tutorials I recommend
-[ ](https://www.youtube.com/watch?v=2BvBk-WHHZQ)
+[ASCII Dots Tutorial](https://www.youtube.com/watch?v=2BvBk-WHHZQ)
