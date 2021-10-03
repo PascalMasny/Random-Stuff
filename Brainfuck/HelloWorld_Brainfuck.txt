@@ -1,4 +1,6 @@
 https://dev.to/kalium/brainf-ck-in-5-minutes-bim
+https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
+
 
 
 “>” moves the datapointer to the right.

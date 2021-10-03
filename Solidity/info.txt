@@ -1,0 +1,7 @@
+install:
+
+sudo add-apt-repository ppa:ethereum/ethereum
+sudo apt-get update
+sudo apt-get install solc
+
+videos: https://www.youtube.com/watch?v=kdvVwGrV7ec
